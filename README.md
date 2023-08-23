@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malisardar&show_icons=true&locale=en" alt="malisardar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malisardar&" alt="malisardar" /></p>
+
+<figure><embed src="https://wakatime.com/share/@074c7241-b68a-4d5a-bb89-f88f2e32b9d5/a4774495-6ea7-4901-9a9c-b07caa7899fd.svg"></embed></figure>
